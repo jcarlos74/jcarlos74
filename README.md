@@ -1,4 +1,4 @@
-# Olá, me chamo José Carlos, sou desenvolvedor de longa data e aprendendo constantemente! 
+## Olá, me chamo José Carlos, sou desenvolvedor de longa data e aprendendo constantemente! 
 ## Bem vindo ao meu perfil GitHub 👋
 
 ## Ferramentas e Tecnologias
