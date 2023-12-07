@@ -1,6 +1,8 @@
 ## Olá, me chamo José Carlos, sou desenvolvedor de longa data e aprendendo constantemente! 
 ## Bem vindo ao meu perfil GitHub 👋
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jcarlos74)](https://git.io/streak-stats)
+
 ## Ferramentas e Tecnologias
 
 <!--
