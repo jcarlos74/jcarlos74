@@ -1,4 +1,7 @@
-### Hi there 👋
+# Olá, me chamo José Carlos, sou desenvolvedor de longa data e aprendendo constantemente! 
+# Bem vindo ao meu perfil GitHub 👋
+
+## Ferramentas e Tecnologias
 
 <!--
 **jcarlos74/jcarlos74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
