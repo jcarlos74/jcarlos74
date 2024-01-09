@@ -26,11 +26,13 @@
 
  ##
  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jcarlos74&show_icons=true&theme=radical)
+ 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcarlos74&size_weight=0.5&count_weight=0.5)
+![jcarlos74's Stats](https://github-readme-stats.vercel.app/api?username=jcarlos74&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
+![jcarlos74's Streak](https://github-readme-streak-stats.herokuapp.com/?user=jcarlos74&theme=dracula&hide_border=true)
 
+![jcarlos74's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jcarlos74&theme=dracula&show_icons=true&hide_border=true&layout=compact)
 
 ## Contatos:
 <div>
