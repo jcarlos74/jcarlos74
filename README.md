@@ -1,7 +1,7 @@
 # **José Carlos Silva**
 ### Bem vindo ao meu perfil GitHub👋
 
-- 🔭 Atualmente trabalhando na produção de aplicativos comerciais usando o framework .NET.
+- 🔭 Atualmente trabalhando na produção de aplicativos comerciais usando o framework .NET e ASP.Net Core
 - 🌱 Estudando DevOps, Front-end(React e Angular)  e aprofundando em .NET com Arquitetura de Microsserviços e RabbitMQ
 
 ##
